@@ -63,7 +63,7 @@ What's left is to compress the whole folder in a zip file and upload it to Azure
   - Command: custom
   - Command and arguments: install --production
 - [Archive Files](http://go.microsoft.com/fwlink/?LinkId=809083)
-  - Root folder: $(System.DefaultWorkingDirectory)
+  - Root folder: $asdgfasdf(System.DefaultWorkingDirectory)
   - Archive type: zip
 - [Publish Artifact](https://go.microsoft.com/fwlink/?LinkID=708390)
 
